@@ -5,4 +5,5 @@
 /build/
 /bin/
 
+# Ignore Competitive Programming Helper files
 .cph/
